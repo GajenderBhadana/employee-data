@@ -1,0 +1,7 @@
+<div class="container" style="margin-top: 70px">
+  <div class="row">
+    <div *ngFor="let employee of employees" class="shadow-lg col-sm-4 p-3">
+      <app-employee-card [employee]="employee"></app-employee-card>
+    </div>
+  </div>
+</div>

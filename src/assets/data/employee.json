@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "Name": "Adam",
+    "Img": "male.jpg",
+    "Designation": "Junior Software Engineer",
+    "ContactNumber": 9867547867,
+    "Email": "",
+    "PermanentAddress": ""
+  },
+  {
+    "Id": 2,
+    "Name": "Smith",
+    "Img": "male.jpg",
+    "Designation": "Software Engineer",
+    "ContactNumber": 9867545867,
+    "Email": "",
+    "PermanentAddress": ""
+  },
+  {
+    "Id": 3,
+    "Name": "Andy",
+    "Img": "male.jpg",
+    "Designation": "Senior Software Engineer",
+    "ContactNumber": 9867557867,
+    "Email": "",
+    "PermanentAddress": ""
+  },
+  {
+    "Id": 4,
+    "Name": "Sandy",
+    "Img": "male.jpg",
+    "Designation": "Software Engineer",
+    "ContactNumber": 9866547867,
+    "Email": "",
+    "PermanentAddress": ""
+  },
+  {
+    "Id": 5,
+    "Name": "Sam",
+    "Img": "male.jpg",
+    "Designation": "Junior Software Engineer",
+    "ContactNumber": 9867547967,
+    "Email": "",
+    "PermanentAddress": ""
+  },
+  {
+    "Id": 6,
+    "Name": "Edword",
+    "Img": "male.jpg",
+    "Designation": "Senior Software Engineer",
+    "ContactNumber": 9967547867,
+    "Email": "",
+    "PermanentAddress": ""
+  }
+]
